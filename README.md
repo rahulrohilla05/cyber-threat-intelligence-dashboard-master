@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Firebase Studio
 
 This is a NextJS starter in Firebase Studio.
@@ -16,3 +17,6 @@ Make sure to have Node.js and npm/yarn installed on your system.
 
 if there is an error related to GEMINI API KEY create a .env file in the root directory and enter your GOOGLE_API_KEY=""
 the API_KEY can be available from https://aistudio.google.com/app/apikey
+=======
+# cyber-threat-intelligence-dashboard-master
+>>>>>>> 4a3c66ab99efccbec93a4988410ae79de4e4d32f
